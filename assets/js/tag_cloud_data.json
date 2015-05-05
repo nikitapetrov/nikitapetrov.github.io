@@ -1,1 +1,1 @@
-{"blog": [1, "/categories/blog.html", {"posts": [{"date": "05/05/2015", "url": "/posts/my-first-post.html", "isodate": "2015-05-05T10:37:07-04:00", "title": "My First Post"}]}]}
+{"blog": [1, "/categories/blog/", {"posts": [{"date": "05/05/2015", "url": "/posts/my-first-post/", "isodate": "2015-05-05T10:37:07-04:00", "title": "My First Post"}]}]}

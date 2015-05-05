@@ -5,7 +5,11 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://www.tfwnogirlfriend.com/2015/index.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/</loc>
+  <lastmod>2015-05-05</lastmod>
+ </url>
+ <url>
+  <loc>http://www.tfwnogirlfriend.com/2015/</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
@@ -13,7 +17,7 @@
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://www.tfwnogirlfriend.com/assets/reveal/index.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
@@ -61,7 +65,15 @@
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
+  <loc>http://www.tfwnogirlfriend.com/categories/</loc>
+  <lastmod>2015-05-05</lastmod>
+ </url>
+ <url>
   <loc>http://www.tfwnogirlfriend.com/categories/blog.html</loc>
+  <lastmod>2015-05-05</lastmod>
+ </url>
+ <url>
+  <loc>http://www.tfwnogirlfriend.com/categories/blog/</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
@@ -73,23 +85,19 @@
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
+  <loc>http://www.tfwnogirlfriend.com/categories/cat_general/</loc>
+  <lastmod>2015-05-05</lastmod>
+ </url>
+ <url>
   <loc>http://www.tfwnogirlfriend.com/categories/first.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://www.tfwnogirlfriend.com/categories/index.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/galleries/</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://www.tfwnogirlfriend.com/galleries/index.html</loc>
-  <lastmod>2015-05-05</lastmod>
- </url>
- <url>
-  <loc>http://www.tfwnogirlfriend.com/index.html</loc>
-  <lastmod>2015-05-05</lastmod>
- </url>
- <url>
-  <loc>http://www.tfwnogirlfriend.com/listings/index.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/listings/</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
@@ -97,7 +105,15 @@
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
+  <loc>http://www.tfwnogirlfriend.com/posts/my-first-post/</loc>
+  <lastmod>2015-05-05</lastmod>
+ </url>
+ <url>
   <loc>http://www.tfwnogirlfriend.com/stories/about-me.html</loc>
+  <lastmod>2015-05-05</lastmod>
+ </url>
+ <url>
+  <loc>http://www.tfwnogirlfriend.com/stories/about-me/</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
 </urlset>
