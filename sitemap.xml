@@ -5,95 +5,95 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://tfwnogirlfriend.com/2015/index.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/2015/index.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/archive.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/archive.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/index.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/index.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/plugin/markdown/example.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/plugin/markdown/example.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/plugin/notes-server/notes.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/plugin/notes-server/notes.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/plugin/notes/notes.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/plugin/notes/notes.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/test/examples/barebones.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/test/examples/barebones.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/test/examples/embedded-media.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/test/examples/embedded-media.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/test/examples/math.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/test/examples/math.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/test/examples/slide-backgrounds.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/test/examples/slide-backgrounds.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/test/test-markdown-element-attributes.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/test/test-markdown-element-attributes.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/test/test-markdown-slide-attributes.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/test/test-markdown-slide-attributes.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/test/test-markdown.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/test/test-markdown.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/assets/reveal/test/test.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/assets/reveal/test/test.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/categories/blog.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/categories/blog.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/categories/cat_first.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/categories/cat_first.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/categories/cat_general.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/categories/cat_general.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/categories/first.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/categories/first.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/categories/index.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/categories/index.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/galleries/index.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/galleries/index.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/index.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/index.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/listings/index.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/listings/index.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
  <url>
-  <loc>http://tfwnogirlfriend.com/posts/my-first-post.html</loc>
+  <loc>http://www.tfwnogirlfriend.com/posts/my-first-post.html</loc>
   <lastmod>2015-05-05</lastmod>
  </url>
 </urlset>
